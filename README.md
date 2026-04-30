@@ -1,2 +1,2 @@
 # my-learning-journal
-My notes from the Git &amp; GitHub session
+Learning Materials for M1: Foundations of Python and SQL
